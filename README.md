@@ -6,3 +6,5 @@ Equipment used
 - Pi Camera (Module 3): Used to take pictures of license plates
 - AI model (YOLOv8n): For detecting license plates and extracting text in images
 - Tesseract OCR: For reading text from images
+
+Visit site for tutorial: https://th.cytron.io/tutorial/pr-license-plate-recognition-chapter0
